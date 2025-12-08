@@ -42,7 +42,7 @@ const Header = () => {
             className="text-lg font-semibold text-foreground hover:text-primary transition-colors"
             onClick={() => scrollToSection('about')}
           >
-            Aditya Kumar Srivastava
+            Abhishek Veeravelli
           </button>
           <ul className="hidden md:flex items-center gap-6 text-sm">
             <li><a className="hover:text-primary transition-colors" href="#about" onClick={() => scrollToSection('about')}>About</a></li>
