@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container py-10">
         <div className="flex flex-col md:flex-row gap-8 md:gap-4 justify-between">
           <div className="space-y-2">
-            <h3 className="text-lg font-semibold">Aditya Kumar Srivastava</h3>
+            <h3 className="text-lg font-semibold">Abhishek Veeravelli</h3>
             <p className="max-w-md text-sm text-muted-foreground">Software Engineer with a passion for creating innovative, scalable, and high-performance solutions.</p>
           </div>
 

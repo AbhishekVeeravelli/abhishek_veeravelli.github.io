@@ -17,16 +17,16 @@ function App() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Helmet>
-        <title>Aditya Kumar Srivastava - Software Engineer</title>
-        <meta name="description" content="Welcome to Aditya Kumar Srivastava's portfolio website. I'm Aditya Kumar Srivastava, a passionate software developer showcasing my projects, skills, and experience." />
-        <meta name="keywords" content="Adityasri, AdityaSri, adityasri.in, Aditya Kumar Srivastava,adityasri portfolio, Software Engineer" />
-        <meta name="author" content="Aditya Kumar Srivastava" />
-        <meta property="og:title" content="Aditya Kumar Srivastava - Portfolio" />
+        <title>Abhishek Veeravelli - Software Engineer</title>
+        <meta name="description" content="Welcome to Abhishek Veeravelli's portfolio website. I'm Abhishek Veeravelli, a passionate software developer showcasing my projects, skills, and experience." />
+        <meta name="keywords" content="Adityasri, AdityaSri, adityasri.in, Abhishek Veeravelli,adityasri portfolio, Software Engineer" />
+        <meta name="author" content="Abhishek Veeravelli" />
+        <meta property="og:title" content="Abhishek Veeravelli - Portfolio" />
         <meta property="og:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://adityasri.in" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Aditya Kumar Srivastava - Portfolio" />
+        <meta name="twitter:title" content="Abhishek Veeravelli - Portfolio" />
         <meta name="twitter:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
         <link rel="canonical" href="https://adityasri.in" />
         {/* SEO: Structured Data for Google */}
@@ -34,7 +34,7 @@ function App() {
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Aditya Kumar Srivastava",
+            "name": "Abhishek Veeravelli",
             "url": "https://adityasri.in",
             "sameAs": [
               "https://github.com/adityasrivastava29",
@@ -42,7 +42,7 @@ function App() {
               "https://x.com/adityasri_in"
             ],
             "jobTitle": "Software Engineer",
-            "description": "Portfolio website of Aditya Kumar Srivastava, Software Engineer. Projects, skills, experience, and contact information."
+            "description": "Portfolio website of Abhishek Veeravelli, Software Engineer. Projects, skills, experience, and contact information."
           }
         `}</script>
         {/* SEO: Robots meta tag */}
