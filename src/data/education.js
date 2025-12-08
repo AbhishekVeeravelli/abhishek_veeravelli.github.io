@@ -1,14 +1,13 @@
 export const education = [
   {
-    degree: 'Bachelor of Technology in Computer Science and Engineering',
-    institution: 'Noida Institute of Engineering and Technology, Greater Noida',
-    period: 'August 2018 - August 2022',
-    extra: 'CGPA: 8.4 (Passed with distinction)',
+    degree: 'Masters of Science, Computer Science and Engineering',
+    institution: 'George Mason University, Fairfax, VA',
+    period: 'August 2022 - May 2024',
   },
   {
-    degree: 'Intermediate',
-    institution: 'Harihar Singh Academy, Varanasi',
-    period: 'April 2016 - June 2017',
+    degree: 'Bachelor of Technology in Computer Science and Engineering',
+    institution: 'Bennett University, Greater Noida, India',
+    period: 'August 2017 - May 2021',
   },
 ];
 

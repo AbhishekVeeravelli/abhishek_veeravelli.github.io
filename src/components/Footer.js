@@ -26,17 +26,17 @@ const Footer = () => {
             <h3 className="text-lg font-semibold">Connect</h3>
             <ul className="mt-3 flex items-center gap-4">
               <li>
-                <a className="hover:text-primary transition-colors" href="https://www.linkedin.com/in/adityakumar29" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <a className="hover:text-primary transition-colors" href="https://www.linkedin.com/in/abhishekv1299/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                   <FaLinkedin size={20} />
                 </a>
               </li>
               <li>
-                <a className="hover:text-primary transition-colors" href="https://github.com/adityaSrivastava29" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                <a className="hover:text-primary transition-colors" href="https://github.com/AbhishekVeeravelli" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                   <FaGithub size={20} />
                 </a>
               </li>
               <li>
-                <a className="hover:text-primary transition-colors" href="mailto:adityasrivastava.niet@gmail.com" aria-label="Email">
+                <a className="hover:text-primary transition-colors" href="mailto:abhishekveeravelli12@gmail.com" aria-label="Email">
                   <FaEnvelope size={20} />
                 </a>
               </li>
@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 border-t border-border pt-4 text-center text-xs text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Aditya Kumar. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Abhishek Veeravelli. All rights reserved.</p>
         </div>
       </div>
     </footer>
