@@ -81,20 +81,20 @@ const Contact = () => {
             <div className="mt-6 space-y-4">
               <div className="flex items-center gap-3">
                 <FaEnvelope className="text-primary" />
-                <a href="mailto:adityasrivastava.niet@gmail.com" className="hover:text-primary transition-colors">
-                  adityasrivastava.niet@gmail.com
+                <a href="mailto:abhishekveeravelli12@gmail.com" className="hover:text-primary transition-colors">
+                  abhishekveeravelli12@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <FaLinkedin className="text-primary" />
-                <a href="https://www.linkedin.com/in/adityakumar29" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                  linkedin.com/in/adityakumar29
+                <a href="https://www.linkedin.com/in/abhishekv1299/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                  linkedin.com/in/abhishekv1299
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <FaGithub className="text-primary" />
-                <a href="https://github.com/adityaSrivastava29" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                  github.com/adityaSrivastava29
+                <a href="https://github.com/AbhishekVeeravelli" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                  github.com/AbhishekVeeravelli
                 </a>
               </div>
             </div>
