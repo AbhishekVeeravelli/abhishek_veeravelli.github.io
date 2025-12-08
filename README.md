@@ -1,6 +1,6 @@
-# Aditya Kumar Srivastava - Portfolio Website
+# Abhishek Veeravelli - Portfolio Website
 
-This is a personal portfolio website of Aditya Kumar Srivastava built with React to showcase my experience, projects, skills, and certifications.
+This is a personal portfolio website of Abhishek Veeravelli built with React to showcase my experience, projects, skills, and certifications.
 
 ## Features
 
