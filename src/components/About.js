@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import { BsTwitterX } from "react-icons/bs";
 
 import { ReactTyped } from 'react-typed';
-import adityaPic from '../Assets/aditya-kumar-pic.jpeg';
+import abhishekPic from '../Assets/abhishek_veeravelli.jpeg';
 import { profile } from '../data/profile';
 import { motion } from 'framer-motion';
 // Tailwind migration: inline classes
@@ -142,7 +142,7 @@ const About = () => {
 
             <div className="relative w-full max-w-sm overflow-hidden rounded-xl border border-border/50 bg-card/50 backdrop-blur-sm shadow-lg group-hover:shadow-xl transition-all duration-500">
               <motion.img
-                src={profile.image || adityaPic}
+                src={profile.image || abhishekPic}
                 alt="Aditya Kumar"
                 className="w-full h-auto"
                 loading="lazy"
