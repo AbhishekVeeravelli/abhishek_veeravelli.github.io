@@ -31,6 +31,22 @@ export const projects = [
     },
     tags: ['Docker', 'Kubernetes', 'AWS', 'Jenkins', 'GitHub','CI/CD','Java','YAML'],
   },
+
+  {
+    title: 'Now you can see me',
+    period: 'January 2023 - May 2023',
+    bullets: [
+      'Built a real-time object detection Android app using TensorFlow Lite with a quantized MobileNet-SSD model.',
+      'Integrated COCO-trained MobileNet-SSD for continuous on-device object classification and bounding box detection.',
+      'Automated TensorFlow Lite model handling through optimized Gradle scripts for seamless integration.',
+      'Developed a camera-based Android application showcasing real-time edge AI inference on mobile devices.',
+      'Optimized quantized MobileNet-SSD performance for high-throughput inference on resource-limited phones.',
+    ],
+    links: {
+      code: 'https://github.com/AbhishekVeeravelli/Now-you-can-see-me',
+    },
+    tags: ['Java', 'Android SDK', 'TensorFlow Lite', 'MobileNet SSD', 'COCO Dataset', 'XML', 'Git'],
+  },
 ];
 
 
