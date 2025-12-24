@@ -54,7 +54,7 @@ const Header = () => {
             <li><a className="hover:text-primary transition-colors" href="#contact" onClick={() => scrollToSection('contact')}>Contact</a></li>
             <li>
               <a 
-                href="https://drive.google.com/file/d/1lW1dhl5OGFw17CYTkttZdg2PxhkbofX-/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1UBD_fngMC9qQDTP5erUR983TjG-ED_qR/view?usp=sharing" 
                 download="Resume.pdf" 
                 className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
               >
