@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaEnvelope, FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaEnvelope, FaLinkedin, FaGithub, FaMapMarkerAlt } from 'react-icons/fa';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -96,6 +96,12 @@ const Contact = () => {
                 <a href="https://github.com/AbhishekVeeravelli" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                   github.com/AbhishekVeeravelli
                 </a>
+              </div>
+              <div className="flex items-center gap-3">
+                <FaMapMarkerAlt className="text-primary" />
+                <span className="hover:text-primary transition-colors">
+                  Santa Clara, CA, USA
+                </span>
               </div>
             </div>
           </div>
